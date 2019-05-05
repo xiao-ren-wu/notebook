@@ -140,7 +140,7 @@ tcp     0     0 0.0.0.0:80        0.0.0.0:*         LISTEN     7084/nginx: maste
 
 3. 浏览器访问
 
-![](H:\notebook\src\images\hello.png)
+![](https://github.com/xiao-ren-wu/notebook/blob/master/src/images/hello.png)
 
 *安装完成！！！老铁没毛病奥~*
 
