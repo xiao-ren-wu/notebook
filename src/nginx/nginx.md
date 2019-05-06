@@ -2,7 +2,7 @@
 
 ## 安装NGINX
 
-- 从nginx官网下载最新稳定版nginx源码，[传送门](www.nginx.org)
+- 从nginx官网下载最新稳定版nginx源码，[传送门](http://nginx.org/)
 
 nginx配置文件使用vim打开不能根据nginx语法变色，需要将nginx目录下`contrib/vim`提供的所有文件拷贝到家目录的`./vim`文件夹中。
 
