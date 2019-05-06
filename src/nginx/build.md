@@ -48,7 +48,7 @@
    #压缩的文件类型
    ~~~
 
-![](H:\notebook\src\images\static-web.png)
+![](https://github.com/xiao-ren-wu/notebook/blob/master/src/images/static-web.png)
 
 #### 将指定目录分享给用户
 
@@ -63,7 +63,7 @@ location / {
 
 访问方法：`${url}`/指定目录
 
-![](H:\notebook\src\images\file.png)
+![](https://github.com/xiao-ren-wu/notebook/blob/master/src/images/file.png)
 
 在大量用户访问静态资源服务器的时候，会给服务器的带宽带来较大的压力，我们可以通过限制服务器向客户端发送数据的速度来节约带宽。
 
@@ -110,7 +110,7 @@ access_log  logs/host.access.log  main;
 [root@localhost conf]# ../sbin/nginx 
 ~~~
 
-![](H:\notebook\src\images\refuse.png)
+![](https://github.com/xiao-ren-wu/notebook/blob/master/src/images/refuse.png)
 
 3. 安装一个openresty。
 
@@ -143,7 +143,7 @@ access_log  logs/host.access.log  main;
 
 浏览器访问代理服务器地址
 
-![](H:\notebook\src\images\proxy.png)
+![](https://github.com/xiao-ren-wu/notebook/blob/master/src/images/roxy.png)
 
 上面location中的参数详情戳[我](http://nginx.org/en/docs/http/ngx_http_proxy_module.html)
 
