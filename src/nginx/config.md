@@ -28,7 +28,7 @@
 
 #### http配置的指令块
 
-![](H:\notebook\src\images\blocks.png)
+![](https://github.com/xiao-ren-wu/notebook/blob/master/src/images/blocks.png)
 
 
 
