@@ -2,7 +2,7 @@
 
 ## 安装NGINX
 
-- 从nginx官网下载最新稳定版nginx源码，[传送门](nginx.org)
+- 从nginx官网下载最新稳定版nginx源码，[传送门](http://nginx.org/)
 
 nginx配置文件使用vim打开不能根据nginx语法变色，需要将nginx目录下`contrib/vim`提供的所有文件拷贝到家目录的`./vim`文件夹中。
 
@@ -140,7 +140,7 @@ tcp     0     0 0.0.0.0:80        0.0.0.0:*         LISTEN     7084/nginx: maste
 
 3. 浏览器访问
 
-![](H:\notebook\src\images\hello.png)
+![](https://github.com/xiao-ren-wu/notebook/blob/master/src/images/hello.png)
 
 *安装完成！！！老铁没毛病奥~*
 
