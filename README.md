@@ -16,7 +16,7 @@
     - [堆排序](https://github.com/xiao-ren-wu/notebook/blob/master/src/c/sort/%E6%8E%A8%E6%8E%92%E5%BA%8F.cpp)
     - [洗牌算法](https://github.com/xiao-ren-wu/notebook/blob/master/src/c/sort/%E6%B4%97%E7%89%8C%E7%AE%97%E6%B3%95.cpp)
     - [字典序算法](https://github.com/xiao-ren-wu/notebook/blob/master/src/c/sort/%E5%AD%97%E5%85%B8%E5%BA%8F%E7%AE%97%E6%B3%95.cpp)
-  - [外排序]()
+    - [外排序](https://github.com/xiao-ren-wu/notebook/tree/master/src/disk_sort)
   
 - ### string
   
