@@ -63,5 +63,5 @@
 
 - ## :bird:[MyBatisPlus​](https://github.com/xiao-ren-wu/notebook/tree/master/mybatis-plus-demo)
 
-- ## :rice:[EnumUtils]()​
+- ## :rice:[EnumUtils​](https://github.com/xiao-ren-wu/notebook/tree/master/enums)
 
